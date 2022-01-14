@@ -1,6 +1,6 @@
 
 
-Hello :) I'm Gianmarco 
+**Hello :) I'm Gianmarco**
 
 Software engineer with interest in design, minimalism & cryptocurrencies. 
 
