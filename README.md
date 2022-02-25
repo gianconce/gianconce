@@ -15,4 +15,4 @@ What I'm doing now:
 
 Reach me at g@gianconce.com or @gianconce on LinkedIn
 
-*Quick note: Deleted all of my repositories because I want to start from scratch (I'm so much better at coding now). 
+*Quick note: Deleted all of my repositories from GitHub because I'm starting from scratch, but feel free to ask me about any of the old projects :) 
