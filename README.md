@@ -13,6 +13,6 @@ What I'm doing now:
 - Getting better at Bootstrap and React
 
 
-Reach me at g@gianconce.com
+Reach me at g@gianconce.com or @gianconce on LinkedIn
 
 *Quick note: Deleted all of my repositories because I want to start from scratch (I'm so much better at coding now). 
