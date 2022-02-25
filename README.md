@@ -2,7 +2,7 @@
 
 **Hello :) I'm Gianmarco**
 
-A software engineer with interest in design, minimalism & cryptocurrencies. 
+Software engineer with interest in design, minimalism & cryptocurrencies. 
 
 
 What I'm doing now: 
